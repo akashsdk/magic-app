@@ -6,7 +6,13 @@ export default function Home() {
       <h1 className="text-3xl font-bold underline">
       Hello. world! Hello. world! hhh
       <br />
-      
+      Hello. world! Hello. world! hhh
+      <br />
+      Hello. world! Hello. world! hhh
+      <br />
+      Hello. world! Hello. world! hhh
+
+      contact
       </h1>
     </div>
   );
